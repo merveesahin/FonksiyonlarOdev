@@ -44,6 +44,8 @@ namespace FonksiyonlarOdev
         {
             Console.WriteLine("Çıkarma: {0}", a - b);
         }
+
+        // return 
         static int artı(int a, int b)
         {
             return a + b;
